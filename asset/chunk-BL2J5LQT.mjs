@@ -1,0 +1,2 @@
+var e = a => ({ description: "Mahirag is a Framer website template designed to showcase your video-centric portfolio in a dark and elegant style.", favicon: new URL("https://framerusercontent.com/images/JIaumZ0DWqOlf7uXyz9GbGibtQ.png").href, socialImage: new URL("https://framerusercontent.com/images/C8ja4lS4rk8iaiphmTZ2jUfP1cM.jpg").href, title: "Mahirag \u2013 Portfolio Website Template" }), n = e; export { n as a };
+//# sourceMappingURL=chunk-BL2J5LQT.mjs.map
